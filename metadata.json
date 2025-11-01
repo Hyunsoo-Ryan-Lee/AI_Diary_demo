@@ -1,0 +1,5 @@
+{
+  "name": "AI Work/Diary Analysis Dashboard",
+  "description": "A personal data analysis service to manage daily work and diary entries on a calendar. An AI provides topic-based analysis for selected periods, visualizing work patterns and insights.",
+  "requestFramePermissions": []
+}
